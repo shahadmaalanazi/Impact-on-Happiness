@@ -5,7 +5,7 @@ This project explores the factors that influence happiness scores using data fro
 
 The analysis includes data exploration, visualization, feature correlation analysis, and machine learning models to predict happiness scores based on socioeconomic indicators.
 
----
+---  
 
 ## Objectives
 
